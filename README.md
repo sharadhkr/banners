@@ -1,9 +1,5 @@
 <h1>BAnner<h1/>
-<img src="https://github.com/user-attachments/assets/e2dbe16d-5762-449a-a50c-6d649bbc3fb9 />
-<img src="https://github.com/user-attachments/assets/1fd4dc9a-5362-4abf-bfde-bf6deef548c3
-" width="200" height="auto" />
-<img src="https://github.com/user-attachments/assets/60dff9e5-41dc-4611-ad8c-ae4c5615f235
-" width="200" height="auto" />
+<img src="https://github.com/user-attachments/assets/73b127f3-2af8-4525-aaaf-b3226d6423b9" width="200" height="auto" />
 <img src="https://github.com/user-attachments/assets/86ef24c6-84af-4837-9805-a7196f444978
 " width="200" height="auto" />
 <img src="https://github.com/user-attachments/assets/eae13413-2327-48b4-bdd5-8851ad55a75e
